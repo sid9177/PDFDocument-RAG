@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+requests
+scrapegraphai
+python-dotenv
+os
+llama-index-llms-anthropic
+llama-index-embeddings-openai
+llama-index
+anthropic
+openai
